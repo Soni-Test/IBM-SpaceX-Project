@@ -14,7 +14,7 @@ This project is for full-fillment for Professional Certificate of Data Science b
 1. [**SpaceX Falcon 9 first stage Landing Prediction**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/Capstone%20Project%20SpaceX%20.ipynb)
 2. [**Data Collection with Web Scraping**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/Data%20Collection%20with%20Web%20Scraping%20.ipynb)
 3. [**Data Wrangling**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/Data%20Wrangling%20.ipynb)
-4. [**EDA with SQL**]()
+4. [**EDA with SQL**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/EDA%20with%20SQL%20%20.ipynb)
 5. [**EDA with Data Visualization**]()
 6. [**Intractive Visual Analytics**]()
 7. [**SpaceX Dashboard**]()
