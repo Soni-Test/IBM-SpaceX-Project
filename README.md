@@ -17,7 +17,7 @@ This project is for full-fillment for Professional Certificate of Data Science b
 4. [**EDA with SQL**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/EDA%20with%20SQL%20%20.ipynb)
 5. [**EDA with Data Visualization**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/EDA%20with%20Data%20Visualization.ipynb)
 6. [**Intractive Visual Analytics**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/Interactive%20Visual%20Analytics%20and%20Dashboard%20.ipynb)
-7. [**SpaceX Dashboard**]()
+7. [**SpaceX Dashboard**](https://github.com/Soni-Test/Applied-Data-Science-Capstone-Project-/blob/Master/spacex_dash_app.py)
 8. [**Machine Learning Prediction**]() 
 
 
